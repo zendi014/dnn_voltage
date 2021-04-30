@@ -4,7 +4,7 @@ Download Base Project NodeJS
 http://bit.ly/dnn-nodejs
 
 Download Base Projecct Flask
-http://bit.ly/dnn-flask
+http://bit.ly/dnnflask
 
 Download DNN Trained Model (Prediction)
 http://bit.ly/dnn-pred-model
