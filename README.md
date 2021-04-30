@@ -1,13 +1,13 @@
 # DNN for Prediction & Classification Voltage 
 
 Download Base Project NodeJS
-https://tinyurl.com/dnn-nodejs
+http://bit.ly/dnn-nodejs
 
 Download Base Projecct Flask
-https://tinyurl.com/dnn-flask
+http://bit.ly/dnn-flask
 
 Download DNN Trained Model (Prediction)
-https://tinyurl.com/dnn-pred-model
+http://bit.ly/dnn-pred-model
 
 Download DNN Trained Model (Classification)
-https://tinyurl.com/dnn-cls-model
+http://bit.ly/dnn-cls-model
